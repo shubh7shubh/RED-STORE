@@ -1,0 +1,28 @@
+
+export const REGISTER = "REGISTER";
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const APIERROR = "APIERROR";
+export const GETPRODUCTS = "GETPRODUCTS";
+export const GETDATABYID = "GETDATABYID";
+export const ISLOADING = "ISLOADING";
+export const SETGRIDVIEW = "SETGRIDVIEW";
+export const SETLISTVIEW = "SETLISTVIEW";
+export const ADDTOCART = "ADDTOCART";
+
+
+
+export const ADDTOCARDFAILED = "ADDTOCARDFAILED";
+export const GETDATAFROMCART = "GETDATAFROMCART";
+export const GET_SORT_VALUE = "GET_SORT_VALUE";
+export const SORTING_PRODUCTS = "SORTING_PRODUCTS";
+export const UPDATE_FILTERS_VALUE = "UPDATE_FILTERS_VALUE";
+export const LOAD_FILTER_PRODUCTS = "LOAD_FILTER_PRODUCTS";
+export const FILTER_PRODUCTS = "FILTER_PRODUCTS";
+export const CLEAR_FILTERS = "CLEAR_FILTERS";
+
+
+
+
+
+
